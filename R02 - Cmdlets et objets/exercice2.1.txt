@@ -1,0 +1,92 @@
+﻿Commandes, alias et objets
+Exercice 1: Commandes et alias
+
+Dans cet exercice, vous devez identifier si la commande donnée est un alias, un cmdlet ou une commande externe.
+- Si c'est un cmdlet, identifiez son ou ses alias;
+- Si c'est un alias, indiquez la commande correspondante ainsi que ses autres alias;
+- Si c'est une commande externe, tentez d'identifier son fichier de programme.
+
+1. ps
+    <Type>     
+    <Réponse>  
+
+2. shcm
+    <Type>     
+    <Réponse>  
+
+3. Get-ChildItem
+    <Type>     
+    <Réponse>  
+
+4. pwd
+    <Type>     
+    <Réponse>  
+
+5. Set-Location
+    <Type>     
+    <Réponse>  
+
+6. copy
+    <Type>     
+    <Réponse>  
+
+7. ping
+    <Type>     
+    <Réponse>  
+
+8. Get-PSDrive
+    <Type>     
+    <Réponse>  
+
+9. ni
+    <Type>     
+    <Réponse>  
+
+10. Write-Output
+    <Type>     
+    <Réponse>  
+
+11. gsv
+    <Type>     
+    <Réponse>  
+
+12. Remove-Item
+    <Type>     
+    <Réponse>  
+
+13. ren
+    <Type>     
+    <Réponse>  
+
+14. ipconfig
+    <Type>     
+    <Réponse>  
+
+15. wget
+    <Type>     
+    <Réponse>  
+
+16. Move-Item
+    <Type>     
+    <Réponse>  
+
+17. cat
+    <Type>     
+    <Réponse>  
+
+18. Start-Process
+    <Type>     
+    <Réponse>  
+
+19. kill
+    <Type>     
+    <Réponse>  
+
+20. taskkill
+    <Type>     
+    <Réponse>  
+
+21. Invoke-History
+    <Type>     
+    <Réponse>  
+
