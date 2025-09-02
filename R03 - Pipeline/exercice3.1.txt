@@ -11,36 +11,36 @@ Pour ce faire, analysez l'objet résultant de chaque maillon à l'aide des comma
         - Description: Le mot "spooler", qui est le nom du service recherché
 
     - Get-Service
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: tableau
+        - Description: Donne l’information sur le service appelé Spooler (sous forme de tableau)
 
     - Select-Object
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: String
+        - Description: Juste une ligne qui dit : Spooler
 
     - Format-List
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: String
+        - Description: Juste une ligne qui dit : Spooler
 
     - Out-File
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: string erreur
+        - Description: Out-File: Cannot process argument because the value of argument "path" is null. Change the value of argument "path" to a non-null value.
 
 
 
 2. Get-Item C:\Windows\System32\drivers\etc\hosts | Get-Content | Out-Null
 
     - Get-Item
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: tableau
+        - Description: Information sur le contenu du dossier
 
    - Get-Content
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: string
+        - Description: Contenu du fichier qu'il contenait
 
     - Out-Null
-        - Type de l'objet en sortie: 
-        - Description: 
+        - Type de l'objet en sortie: rien
+        - Description: envoie l'objet vers le néant
 
 
 
